@@ -1,0 +1,36 @@
+{
+  "name": "graphql-schema-builder",
+  "version": "0.1.0",
+  "description": "React project with Typescript",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.7.2",
+    "graphql-tools": "^0.8.0",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.2",
+    "inversify": "^3.0.0-beta.1",
+    "reflect-metadata": "^0.1.8",
+    "ts-loader": "^1.0.0",
+    "ts-node": "^1.6.0",
+    "typed-graphql": "^1.0.2",
+    "typescript": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/es6-promise": "^0.0.32",
+    "@types/node": "^6.0.46",
+    "concurrently": "^2.2.0",
+    "tslint": "^3.15.1"
+  },
+  "peerDependencies": {
+    "graphql": "^0.7.2",
+    "graphql-tools": "^0.8.0",
+    "graphql-typings": "^0.0.1-beta-2"
+  }
+}

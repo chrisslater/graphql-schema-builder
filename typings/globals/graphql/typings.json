@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/3598fcc3274a47dbaea09390e8994fb643b662fb/graphql/graphql.d.ts",
+    "raw": "registry:dt/graphql#0.7.0+20161019131654",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/3598fcc3274a47dbaea09390e8994fb643b662fb/graphql/graphql.d.ts"
+  }
+}
