@@ -10,3 +10,6 @@ err.log
 out.log
 
 typings
+
+build/
+dist/
